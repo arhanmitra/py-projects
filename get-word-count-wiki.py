@@ -51,6 +51,6 @@ def get_top_words(url, top_n=5):
         print(f"An error occurred: {e}")
 
 # Example usage
-url = "https://en.wikipedia.org/wiki/Shorewood,_Wisconsin"  # Replace with your desired Wikipedia URL
+url = "https://en.wikipedia.org/wiki/Shorewood,_Wisconsin"  
 get_top_words(url)
 
